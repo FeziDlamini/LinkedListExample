@@ -1,4 +1,6 @@
 // LinkedList Example : Console Application
+//COMMENT ADDED IN GUI EXERCISE
+//
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>
